@@ -1,5 +1,5 @@
 
-# Day 3 - Python Pizza / Love Test
+# Day 3 - Python Pizza / Love Test / GAME
 
 Today we are going to test our python skills by making an automatic pizza price calculator, a love test and a little GAME
 
