@@ -17,3 +17,7 @@ Love Calculator:
 Python Pizza:
 
 ![App Screenshot](https://github.com/snkfranco/Python-Pro-Bootcamp/blob/main/Day%203%20-%20Pizza%20Love%20and%20Game/Screenshot/2.png?raw=true)
+
+Tresure Game:
+
+![App Screenshot](https://github.com/snkfranco/Python-Pro-Bootcamp/blob/main/Day%203%20-%20Pizza%20Love%20and%20Game/Screenshot/3.png?raw=true)
