@@ -1,5 +1,5 @@
 
-# Day 4 - Password Generator and Rock / Paper / Scisor Game
+# Day 4 - Rock / Paper / Scisor Game
 
 A simple random password generator that ask you a few questions and then just create a random password for you
 And a simple RPS Game where you can play against the computer
