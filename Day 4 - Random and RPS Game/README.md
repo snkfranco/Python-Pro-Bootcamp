@@ -5,11 +5,7 @@ A simple random password generator that ask you a few questions and then just cr
 And a simple RPS Game where you can play against the computer
 
 
-## Screenshots
-
-Password Generator:
-
-![App Screenshot](https://github.com/snkfranco/Python-Pro-Bootcamp/blob/main/Day%204%20-%20Random%20and%20RPS%20Game/Screenshots/1.png?raw=true)
+## Screenshot
 
 Rock / Paper / Scissors - Game:
 
